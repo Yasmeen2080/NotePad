@@ -1,0 +1,6 @@
+.dialog-pane:header .header-panel .label {
+    -fx-font-size: 45px;
+    -fx-wrap-text: true;
+    -fx-font: bold ;
+    -fx-text-fill: blue;
+}
